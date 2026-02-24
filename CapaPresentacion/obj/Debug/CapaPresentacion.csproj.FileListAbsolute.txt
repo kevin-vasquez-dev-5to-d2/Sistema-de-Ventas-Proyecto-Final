@@ -1,0 +1,185 @@
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategorias.resources
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\ADMIN\source\repos\sistema ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\ADMIN\source\repos\sistema ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\ADMIN\source\repos\sistema ventas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\ADMIN\source\repos\sistema ventas\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\ADMIN\source\repos\sistema ventas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\ADMIN\source\repos\sistema ventas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\ADMIN\source\repos\sistema ventas\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\ADMIN\source\repos\sistema ventas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\ADMIN\source\repos\sistema ventas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\ADMIN\source\repos\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategorias.resources
+C:\Users\ADMIN\source\repos\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\sistema ventas\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\ADMIN\source\repos\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\ADMIN\source\repos\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\ADMIN\source\repos\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProductos.resources
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategorias.resources
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\EnvDTE.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProductos.resources
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FInicio.resources
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FormC.resources
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FormV.resources
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FormFacturacion.resources
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FormInformProduct.resources
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\EnvDTE.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.FInicio.resources
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.FormC.resources
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.FormFacturacion.resources
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.FormInformProduct.resources
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProductos.resources
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategorias.resources
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.FormV.resources
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

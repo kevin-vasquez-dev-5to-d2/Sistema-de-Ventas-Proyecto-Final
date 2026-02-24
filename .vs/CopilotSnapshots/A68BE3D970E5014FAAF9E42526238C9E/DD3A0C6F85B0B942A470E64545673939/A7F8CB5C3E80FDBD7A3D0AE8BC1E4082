@@ -1,0 +1,124 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using CapaNegocio;
+
+namespace CapaPresentacion
+{
+    public partial class FormFacturacion : Form
+    {
+        public FormFacturacion()
+        {
+            InitializeComponent();
+        }
+
+        private void FormFacturacion_Load(object sender, EventArgs e)
+        {
+            try
+            {
+                CargarDetalleVentaEnGrid();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error cargando datos: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private DataTable ObtenerDetalleVentaDesdeBD()
+        {
+            try
+            {
+                DetalleVentaBL detalleVentaBL = new DetalleVentaBL();
+                return detalleVentaBL.ObtenerDetalleVentaConJoins();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al obtener datos: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return new DataTable();
+            }
+        }
+
+        private void CargarDetalleVentaEnGrid()
+        {
+            var dt = ObtenerDetalleVentaDesdeBD();
+            dataGridView1.DataSource = dt;
+
+            // Configurar ancho de columnas
+            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
+
+            // Ajustar ancho de columnas específicas
+            if (dataGridView1.Columns.Contains("NombreProducto"))
+                dataGridView1.Columns["NombreProducto"].Width = 150;
+            if (dataGridView1.Columns.Contains("Categoria"))
+                dataGridView1.Columns["Categoria"].Width = 120;
+            if (dataGridView1.Columns.Contains("ITBIS"))
+                dataGridView1.Columns["ITBIS"].Width = 80;
+            if (dataGridView1.Columns.Contains("Subtotal"))
+                dataGridView1.Columns["Subtotal"].Width = 100;
+            if (dataGridView1.Columns.Contains("Total"))
+                dataGridView1.Columns["Total"].Width = 100;
+            if (dataGridView1.Columns.Contains("MetodoPago"))
+                dataGridView1.Columns["MetodoPago"].Width = 120;
+        }
+
+        private void reportViewer1_Load(object sender, EventArgs e)
+        {
+        }
+
+        private void btnVerFactura_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                // Validar que haya una fila seleccionada
+                if (dataGridView1.SelectedRows.Count == 0)
+                {
+                    MessageBox.Show("Por favor, seleccione un producto para ver su factura.", "Validación", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
+
+                DataTable dt;
+                if (dataGridView1.DataSource is DataTable)
+                    dt = (DataTable)dataGridView1.DataSource;
+                else
+                    dt = ObtenerDetalleVentaDesdeBD();
+
+                // Obtener datos de la fila seleccionada
+                DataGridViewRow selectedRow = dataGridView1.SelectedRows[0];
+
+                // Crear tabla con los datos del reporte
+                DataTable dtReporte = new DataTable();
+                dtReporte.Columns.Add("NombreProducto", typeof(string));
+                dtReporte.Columns.Add("Categoria", typeof(string));
+                dtReporte.Columns.Add("ITBIS", typeof(decimal));
+                dtReporte.Columns.Add("Subtotal", typeof(decimal));
+                dtReporte.Columns.Add("Total", typeof(decimal));
+                dtReporte.Columns.Add("MetodoPago", typeof(string));
+
+                // Agregar la fila seleccionada
+                dtReporte.Rows.Add(
+                    selectedRow.Cells["NombreProducto"].Value,
+                    selectedRow.Cells["Categoria"].Value,
+                    selectedRow.Cells["ITBIS"].Value,
+                    selectedRow.Cells["Subtotal"].Value,
+                    selectedRow.Cells["Total"].Value,
+                    selectedRow.Cells["MetodoPago"].Value
+                );
+
+                // Abrir ventana emergente con el reporte
+                FormVisualizarFactura formFactura = new FormVisualizarFactura(dtReporte, "Factura");
+                formFactura.ShowDialog();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error generando la factura: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+    }
+}

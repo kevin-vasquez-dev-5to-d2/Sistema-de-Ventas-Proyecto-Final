@@ -1,0 +1,84 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using CapaNegocio;
+using CapaEntidades;
+using CapaPresentacion;
+
+namespace CapaPresentacion
+{
+    public partial class FInicio : Form
+    {
+        public FInicio()
+        {
+            InitializeComponent();
+        }
+
+        private void FInicio_Load(object sender, EventArgs e)
+        {
+            // El formulario se configura en el Designer
+        }
+
+        // Efectos visuales al pasar el mouse sobre los botones
+        private void Button_MouseEnter(object sender, EventArgs e)
+        {
+            Button btn = sender as Button;
+            if (btn != null)
+            {
+                btn.Font = new Font(btn.Font, btn.Font.Style | FontStyle.Underline);
+                btn.Cursor = Cursors.Hand;
+            }
+        }
+
+        private void Button_MouseLeave(object sender, EventArgs e)
+        {
+            Button btn = sender as Button;
+            if (btn != null)
+            {
+                btn.Font = new Font(btn.Font, btn.Font.Style & ~FontStyle.Underline);
+                btn.Cursor = Cursors.Default;
+            }
+        }
+
+        private void FormCategoria_Click(object sender, EventArgs e)
+        {
+            FrmCategorias frmc = new FrmCategorias();
+            frmc.ShowDialog();
+        }
+
+        private void FormProductos_Click(object sender, EventArgs e)
+        {
+            FrmProductos frmp = new FrmProductos();
+            frmp.ShowDialog();
+        }
+
+        private void progressBar1_Click(object sender, EventArgs e)
+        {
+   
+        }
+
+        private void FormClientes_Click(object sender, EventArgs e)
+        {
+            FormC formC = new FormC();
+            formC.ShowDialog();
+        }
+
+        private void FormVentas_Click(object sender, EventArgs e)
+        {
+            FormV formV = new FormV();
+            formV.ShowDialog();
+        }
+
+        private void FormDetalleVentas_Click(object sender, EventArgs e)
+        {
+            FormFacturacion formF = new FormFacturacion();
+            formF.ShowDialog();
+        }
+    }
+}

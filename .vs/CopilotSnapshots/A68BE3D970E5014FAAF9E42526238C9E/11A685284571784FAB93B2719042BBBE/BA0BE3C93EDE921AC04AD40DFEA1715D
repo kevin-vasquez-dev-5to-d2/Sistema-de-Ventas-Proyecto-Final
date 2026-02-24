@@ -1,0 +1,33 @@
+﻿-- ============================================
+-- STORED PROCEDURE: sp_ObtenerDetalleVentaConJoins
+-- Descripción: Obtiene los detalles de venta con joins a Productos y Cliente
+-- Usado por: FormFacturacion para mostrar el reporte
+-- ============================================
+
+IF EXISTS (SELECT * FROM sys.objects WHERE type = 'P' AND name = 'sp_ObtenerDetalleVentaConJoins')
+    DROP PROCEDURE sp_ObtenerDetalleVentaConJoins
+GO
+
+CREATE PROCEDURE sp_ObtenerDetalleVentaConJoins
+AS
+BEGIN
+    SET NOCOUNT ON
+    
+    SELECT 
+        dv.id_detalle AS Id_Detalle,
+        dv.id_venta AS Id_Venta,
+        dv.id_producto AS Id_Productos,
+        p.nombre_producto AS NombreProducto,
+        dv.cantidad AS Cant,
+        dv.precio AS PrecioUnitario,
+        (dv.cantidad * dv.precio) AS Subtotal,
+        c.nombre AS NombreCliente
+    FROM Detalle_venta dv
+    LEFT JOIN Productos p ON dv.id_producto = p.id_productos
+    LEFT JOIN Venta v ON dv.id_venta = v.id_venta
+    LEFT JOIN Cliente c ON v.id_cliente = c.id_cliente
+    ORDER BY dv.id_detalle DESC
+END
+GO
+
+PRINT 'Stored Procedure sp_ObtenerDetalleVentaConJoins creado exitosamente'

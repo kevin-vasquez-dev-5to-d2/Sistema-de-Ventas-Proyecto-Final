@@ -1,0 +1,24 @@
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\capas\ej1\sistema ventas\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\ADMIN\source\repos\sistema ventas\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\sistema ventas\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\sistema ventas\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\ADMIN\source\repos\sistema ventas\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\ADMIN\source\repos\sistema ventas\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\ADMIN\source\repos\sistema ventas\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\ADMIN\source\repos\App.C#\sistema ventas\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\K1024\OneDrive\Escritorio\sistema ventas - copia\CapaEntidades\obj\Debug\CapaEntidades.pdb

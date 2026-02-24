@@ -1,0 +1,59 @@
+﻿using CapaDatos;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CapaNegocio
+{
+    public class ProductoBLL
+    {
+        private ProductoDAL productoDAL = new ProductoDAL();
+
+        // INSERTAR
+        public void Insertar(Producto producto)
+        {
+            if (string.IsNullOrWhiteSpace(producto.nombre_producto))
+                throw new Exception("El nombre del producto es obligatorio.");
+
+            if (producto.precio_producto <= 0)
+                throw new Exception("El precio debe ser mayor que 0.");
+
+            if (producto.stock < 0)
+                throw new Exception("El stock no puede ser negativo.");
+
+            productoDAL.Insertar(producto);
+        }
+
+        // LISTAR
+        public List<Producto> Listar()
+        {
+            return productoDAL.Listar();
+        }
+
+        // ACTUALIZAR
+        public void Actualizar(Producto producto)
+        {
+            if (producto.id_productos <= 0)
+                throw new Exception("ID inválido.");
+
+            if (string.IsNullOrWhiteSpace(producto.nombre_producto))
+                throw new Exception("El nombre es obligatorio.");
+
+            if (producto.precio_producto <= 0)
+                throw new Exception("Precio inválido.");
+
+            productoDAL.Actualizar(producto);
+        }
+
+        // ELIMINAR
+        public void Eliminar(int id)
+        {
+            if (id <= 0)
+                throw new Exception("ID inválido.");
+
+            productoDAL.Eliminar(id);
+        }
+    }
+}

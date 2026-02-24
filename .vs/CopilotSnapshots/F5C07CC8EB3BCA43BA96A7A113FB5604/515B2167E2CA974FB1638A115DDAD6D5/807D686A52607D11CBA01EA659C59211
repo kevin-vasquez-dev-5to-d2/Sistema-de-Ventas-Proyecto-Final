@@ -1,0 +1,124 @@
+﻿namespace CapaPresentacion
+{
+    partial class FInicio
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.FormCategoria = new System.Windows.Forms.Button();
+            this.FormProductos = new System.Windows.Forms.Button();
+            this.FormClientes = new System.Windows.Forms.Button();
+            this.FormVentas = new System.Windows.Forms.Button();
+            this.FormDetalleVentas = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // FormCategoria
+            // 
+            this.FormCategoria.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.FormCategoria.Font = new System.Drawing.Font("Palatino Linotype", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.FormCategoria.Location = new System.Drawing.Point(41, 116);
+            this.FormCategoria.Name = "FormCategoria";
+            this.FormCategoria.Size = new System.Drawing.Size(234, 67);
+            this.FormCategoria.TabIndex = 0;
+            this.FormCategoria.Text = "Ver Categorias";
+            this.FormCategoria.UseVisualStyleBackColor = false;
+            this.FormCategoria.Click += new System.EventHandler(this.FormCategoria_Click);
+            // 
+            // FormProductos
+            // 
+            this.FormProductos.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.FormProductos.Font = new System.Drawing.Font("Palatino Linotype", 12F, System.Drawing.FontStyle.Bold);
+            this.FormProductos.Location = new System.Drawing.Point(293, 116);
+            this.FormProductos.Name = "FormProductos";
+            this.FormProductos.Size = new System.Drawing.Size(210, 67);
+            this.FormProductos.TabIndex = 1;
+            this.FormProductos.Text = "Ver Productos";
+            this.FormProductos.UseVisualStyleBackColor = false;
+            this.FormProductos.Click += new System.EventHandler(this.FormProductos_Click);
+            // 
+            // FormClientes
+            // 
+            this.FormClientes.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.FormClientes.Font = new System.Drawing.Font("Palatino Linotype", 12F, System.Drawing.FontStyle.Bold);
+            this.FormClientes.Location = new System.Drawing.Point(532, 116);
+            this.FormClientes.Name = "FormClientes";
+            this.FormClientes.Size = new System.Drawing.Size(207, 67);
+            this.FormClientes.TabIndex = 2;
+            this.FormClientes.Text = "Ver Clientes";
+            this.FormClientes.UseVisualStyleBackColor = false;
+            this.FormClientes.Click += new System.EventHandler(this.FormClientes_Click);
+            // 
+            // FormVentas
+            // 
+            this.FormVentas.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.FormVentas.Font = new System.Drawing.Font("Palatino Linotype", 12F, System.Drawing.FontStyle.Bold);
+            this.FormVentas.Location = new System.Drawing.Point(76, 272);
+            this.FormVentas.Name = "FormVentas";
+            this.FormVentas.Size = new System.Drawing.Size(209, 67);
+            this.FormVentas.TabIndex = 3;
+            this.FormVentas.Text = "Ver Ventas";
+            this.FormVentas.UseVisualStyleBackColor = false;
+            this.FormVentas.Click += new System.EventHandler(this.FormVentas_Click);
+            // 
+            // FormDetalleVentas
+            // 
+            this.FormDetalleVentas.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.FormDetalleVentas.Font = new System.Drawing.Font("Palatino Linotype", 12F, System.Drawing.FontStyle.Bold);
+            this.FormDetalleVentas.Location = new System.Drawing.Point(340, 275);
+            this.FormDetalleVentas.Name = "FormDetalleVentas";
+            this.FormDetalleVentas.Size = new System.Drawing.Size(234, 64);
+            this.FormDetalleVentas.TabIndex = 4;
+            this.FormDetalleVentas.Text = "Ver Factura";
+            this.FormDetalleVentas.UseVisualStyleBackColor = false;
+            this.FormDetalleVentas.Click += new System.EventHandler(this.FormDetalleVentas_Click);
+            // 
+            // FInicio
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(1193, 430);
+            this.Controls.Add(this.FormDetalleVentas);
+            this.Controls.Add(this.FormVentas);
+            this.Controls.Add(this.FormClientes);
+            this.Controls.Add(this.FormProductos);
+            this.Controls.Add(this.FormCategoria);
+            this.Name = "FInicio";
+            this.Text = "FInicio";
+            this.Load += new System.EventHandler(this.FInicio_Load);
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Button FormCategoria;
+        private System.Windows.Forms.Button FormProductos;
+        private System.Windows.Forms.Button FormClientes;
+        private System.Windows.Forms.Button FormVentas;
+        private System.Windows.Forms.Button FormDetalleVentas;
+    }
+}

@@ -1,0 +1,125 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using CapaDatos;
+
+namespace CapaPresentacion
+{
+    public partial class FormFacturacion : Form
+    {
+        public FormFacturacion()
+        {
+            InitializeComponent();
+        }
+
+        private void FormFacturacion_Load(object sender, EventArgs e)
+        {
+            try
+            {
+                CargarDetalleVentaEnGrid();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error cargando datos: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private DataTable ObtenerDetalleVentaDesdeBD()
+        {
+            try
+            {
+                DetalleVentaDAL detalleVentaDAL = new DetalleVentaDAL();
+                return detalleVentaDAL.ObtenerDetalleVentaConJoins();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al obtener datos: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return new DataTable();
+            }
+        }
+
+        private void CargarDetalleVentaEnGrid()
+        {
+            var dt = ObtenerDetalleVentaDesdeBD();
+            dataGridView1.DataSource = dt;
+
+            // Ocultar columnas sensibles (ids) para no mostrarlas en el grid
+            if (dataGridView1.Columns.Contains("Id_Detalle")) 
+                dataGridView1.Columns["Id_Detalle"].Visible = false;
+            if (dataGridView1.Columns.Contains("Id_Venta")) 
+                dataGridView1.Columns["Id_Venta"].Visible = false;
+            if (dataGridView1.Columns.Contains("Id_Productos")) 
+                dataGridView1.Columns["Id_Productos"].Visible = false;
+            if (dataGridView1.Columns.Contains("estado")) 
+                dataGridView1.Columns["estado"].Visible = false;
+
+            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
+        }
+
+        private void reportViewer1_Load(object sender, EventArgs e)
+        {
+        }
+
+        private void btnVerFactura_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                // Validar que haya una fila seleccionada
+                if (dataGridView1.SelectedRows.Count == 0)
+                {
+                    MessageBox.Show("Por favor, seleccione una venta para ver su factura.", "Validación", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
+
+                DataTable dt;
+                if (dataGridView1.DataSource is DataTable)
+                    dt = (DataTable)dataGridView1.DataSource;
+                else
+                    dt = ObtenerDetalleVentaDesdeBD();
+
+                // Obtener datos de la venta seleccionada
+                DataGridViewRow selectedRow = dataGridView1.SelectedRows[0];
+                string nombreCliente = selectedRow.Cells["NombreCliente"]?.Value?.ToString() ?? "Cliente Desconocido";
+                int idVenta = Convert.ToInt32(selectedRow.Cells["Id_Venta"].Value);
+
+                // Crear tabla con los campos que espera el reporte
+                DataTable dtVentaSeleccionada = new DataTable();
+                dtVentaSeleccionada.Columns.Add("id_detalle", typeof(int));
+                dtVentaSeleccionada.Columns.Add("id_venta", typeof(int));
+                dtVentaSeleccionada.Columns.Add("id_productos", typeof(int));
+                dtVentaSeleccionada.Columns.Add("cant", typeof(int));
+                dtVentaSeleccionada.Columns.Add("precio", typeof(decimal));
+
+                // Copiar datos filtrados con nombres de columna correctos
+                foreach (DataRow row in dt.Rows)
+                {
+                    if (Convert.ToInt32(row["Id_Venta"]) == idVenta)
+                    {
+                        dtVentaSeleccionada.Rows.Add(
+                            row["Id_Detalle"],
+                            row["Id_Venta"],
+                            row["Id_Productos"],
+                            row["Cant"],
+                            row["PrecioUnitario"]
+                        );
+                    }
+                }
+
+                // Abrir ventana emergente con el reporte
+                FormVisualizarFactura formFactura = new FormVisualizarFactura(dtVentaSeleccionada, nombreCliente);
+                formFactura.ShowDialog();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error generando la factura: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+    }
+}

@@ -1,0 +1,58 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using Microsoft.Reporting.WinForms;
+
+namespace CapaPresentacion
+{
+    public partial class FormVisualizarFactura : Form
+    {
+        private DataTable dtFactura;
+        private string nombreCliente;
+
+        public FormVisualizarFactura(DataTable dt, string cliente)
+        {
+            InitializeComponent();
+            dtFactura = dt;
+            nombreCliente = cliente;
+        }
+
+        private void FormVisualizarFactura_Load(object sender, EventArgs e)
+        {
+            try
+            {
+                // Configurar ReportViewer
+                reportViewer1.LocalReport.DataSources.Clear();
+
+                // Agregar el datasource con el nombre correcto
+                var rds = new ReportDataSource("DataSetVenta", dtFactura);
+                reportViewer1.LocalReport.DataSources.Add(rds);
+
+                // Establecer parámetro del cliente (compatibilidad con reportes antiguos)
+                if (!string.IsNullOrWhiteSpace(nombreCliente))
+                {
+                    var params_cliente = new Microsoft.Reporting.WinForms.ReportParameter("Cliente", nombreCliente);
+                    reportViewer1.LocalReport.SetParameters(new[] { params_cliente });
+                }
+
+                // Refrescar el reporte
+                reportViewer1.RefreshReport();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al cargar la factura: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                this.Close();
+            }
+        }
+
+        private void reportViewer1_Load(object sender, EventArgs e)
+        {
+        }
+    }
+}
