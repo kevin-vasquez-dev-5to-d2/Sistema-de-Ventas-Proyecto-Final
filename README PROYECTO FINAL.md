@@ -18,7 +18,7 @@ Este proyecto es una aplicación de escritorio diseñada para gestionar las oper
 
 **2. Registro de Productos**
 > En esta sección se agregan, editan o eliminan los productos disponibles para la venta.
-![Formulario de Productos]()
+![Formulario de Productos](https://github.com/kevin-vasquez-dev-5to-d2/Tarea-Calificacion-estudiantil/blob/5e63de95b3770d59ea8d8ab4414f13eb7a7d2351/imagenes_proyectos/Captura%20de%20pantalla%202026-02-06%20170209.png)
 
 **3. Registro de Clientes**
 > Se visualiza el formulario donde se agregan y almacenan los datos de los clientes.
