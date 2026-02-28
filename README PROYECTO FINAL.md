@@ -14,7 +14,7 @@ Este proyecto es una aplicación de escritorio diseñada para gestionar las oper
 
 **1. Gestión de Categorías**
 > Aquí se muestra el módulo donde se crean y administran las categorías para organizar los productos.
-![Gestion de Categorias]()
+![Gestion de Categorias](https://github.com/kevin-vasquez-dev-5to-d2/Tarea-Calificacion-estudiantil/blob/9f1ec2f2520e704890275e3d9aa9e155a312ad10/imagenes_proyectos/categoria.png)
 
 **2. Registro de Productos**
 > En esta sección se agregan, editan o eliminan los productos disponibles para la venta.
