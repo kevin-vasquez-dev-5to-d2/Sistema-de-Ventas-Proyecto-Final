@@ -22,11 +22,11 @@ Este proyecto es una aplicación de escritorio diseñada para gestionar las oper
 
 **3. Registro de Clientes**
 > Se visualiza el formulario donde se agregan y almacenan los datos de los clientes.
-![Formulario de Clientes]()
+![Formulario de Clientes](https://github.com/kevin-vasquez-dev-5to-d2/Tarea-Calificacion-estudiantil/blob/9f1ec2f2520e704890275e3d9aa9e155a312ad10/imagenes_proyectos/cliente.png)
 
 **4. Registro de Ventas**
 > Aquí se realiza la venta y se seleccionan los productos
-![Formulario de Ventas](https://github.com/kevin-vasquez-dev-5to-d2/Tarea-Calificacion-estudiantil/blob/9f1ec2f2520e704890275e3d9aa9e155a312ad10/imagenes_proyectos/cliente.png)
+![Formulario de Ventas]()
 
 **5. Reporte de Ventas**
 > El sistema genera una Factura en base a las ventas registradas previamente.
