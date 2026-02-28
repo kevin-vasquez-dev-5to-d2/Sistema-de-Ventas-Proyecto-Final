@@ -26,7 +26,7 @@ Este proyecto es una aplicación de escritorio diseñada para gestionar las oper
 
 **4. Registro de Ventas**
 > Aquí se realiza la venta y se seleccionan los productos
-![Formulario de Ventas]()
+![Formulario de Ventas](https://github.com/kevin-vasquez-dev-5to-d2/Tarea-Calificacion-estudiantil/blob/41fbced717c618e2cf76be5b774d41fc39b3c95f/imagenes_proyectos/ventas.png)
 
 **5. Reporte de Ventas**
 > El sistema genera una Factura en base a las ventas registradas previamente.
