@@ -30,7 +30,7 @@ Este proyecto es una aplicación de escritorio diseñada para gestionar las oper
 
 **5. Reporte de Ventas**
 > El sistema genera una Factura en base a las ventas registradas previamente.
-![Formulario de Facturacion](https://github.com/kevin-vasquez-dev-5to-d2/Tarea-Calificacion-estudiantil/blob/41fbced717c618e2cf76be5b774d41fc39b3c95f/imagenes_proyectos/Facturacion.png)
+![Formulario de Facturacion](https://github.com/kevin-vasquez-dev-5to-d2/Tarea-Calificacion-estudiantil/blob/7cbcf003c3fe5c85cbaa9db0a32930cacb3ffd46/imagenes_proyectos/Reporte.png)
 
 
 ## Uso o Ejecución
